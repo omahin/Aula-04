@@ -37,7 +37,7 @@
 
 ## Problemas encontrados :x:
 
-* O Nodemom não funcionou em minha máquina, devido a um erro desconhecido, porém o código roda normalmente pelo Node.
+* O Nodemom não funcionou em minha máquina devido a um erro desconhecido, porém o código roda normalmente pelo Node.
 
 ## Agradecimentos :raised_hands:
 
