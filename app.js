@@ -22,33 +22,32 @@ if(buscarLivrosPorCategoria.toLocaleUpperCase() === 'S') {
     console.log('Essas são as categorias disponíveis:')
     console.log('Psicologia', 'Psicanálise', 'Poesia', 'Ficção contemporânea', 'Drama', 'Auto ajuda',
     'Transformação pessoal', 'Social', 'Biografia');
-    const qualCategoria = pegarEntrada.question('Qual categoria voce ira escolher?')
+    const qualCategoria = pegarEntrada.question('Qual categoria voce gostaria de escolher?')
     const categorias = livros.filter(livro => livro.categoria === qualCategoria)
     console.log(categorias) 
 } else {
-    console.log('Esses sao todos os livros cadastrados em nossa plataforma:')
+    console.log('Esses sao todos os livros cadastrados:')
     console.table(livros)
 }
 
 const livrosRecomendados = pegarEntrada.question('Voce deseja recomendacoes de leitura?')
 
 if(livrosRecomendados.toLocaleUpperCase() === 'S') {
-    console.log('Essas sao nossas recomendacoes:')
+    console.log('Essas sao nossas sugestoes:')
     const recomendados = livros.filter(livro => livro.recomenda === "True" && livro.leu === "True")
     console.table(recomendados) 
 } else {
-    console.log('Que pena! Abaixo estao todos os livros cadastrados em nossa plataforma, boa escolha e boa leitura!')
+    console.log('Que pena! Abaixo estao todos os livros cadastrados, boa escolha e boa leitura!')
     console.table(livros)
 }
 
-const wishlist = pegarEntrada.question('Voce gostaria de uma wishlist para proximas leituras?')
+const wishlist = pegarEntrada.question('Voce gostaria de formar uma wishlist para proximas leituras?')
 
 if(wishlist.toLocaleUpperCase() === 'S') {
-    console.log('Esses sao os livros nao lidos:')
+    console.log('Esses sao os livros ainda nao lidos:')
     const desejos = livros.filter(livro => livro.leu === "False")
     console.table(desejos)
 } else {
-    console.log('Esses sao todos os livros cadastrados em nossa plataforma:')
+    console.log('Esses sao todos os livros cadastrados::')
     console.table(livros)
 }
-
