@@ -7,11 +7,11 @@
 
 ## Sumário
 
-* [Descrição do projeto](#descrição-do-projeto)
-* [Pré requisitos](#pré-requisitos)
-* [Problemas encontrados](#problemas-encontrados)
-* [Agradecimentos](#agradecimentos)
-* [Desenvolvedora](#desenvolvedora)
+1. [Descrição do projeto](#descrição-do-projeto)
+2. [Pré requisitos](#pré-requisitos)
+3. [Problemas encontrados](#problemas-encontrados)
+4. [Agradecimentos](#agradecimentos)
+5. [Desenvolvedora](#desenvolvedora)
 
 <br>
 ---
