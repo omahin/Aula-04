@@ -8,7 +8,7 @@
 ## Sumário
 
 * [Descrição do projeto](#descrição-do-projeto)
-* [Pré-requisitos](#pré-requisitos)
+* [Pré requisitos](#pré-requisitos)
 * [Problemas encontrados](#problemas-encontrados)
 * [Agradecimentos](#agradecimentos)
 * [Desenvolvedora](#desenvolvedora)
@@ -41,7 +41,7 @@
 
 ## Agradecimentos :raised_hands:
 
-#### <p align="justify"> Muita gratidão pelo início dessa jornada ao lado de mulheres tão incríveis, que apesar dos perrengues fazem com que a caminhada seja leve! Professora Simara, obrigada pelo carinho e didática impecáveis ao longo dessas 3 semanas, espero um dia quem sabe, pode retribuir compartilhando meu conhecimento da mesma forma que você! :heart: </p>
+#### <p align="justify"> Muita gratidão pelo início dessa jornada ao lado de mulheres tão incríveis, que apesar dos perrengues fazem com que a caminhada seja leve! Professora Simara, obrigada pelo carinho e didática impecáveis ao longo dessas 3 semanas, espero um dia, poder retribuir compartilhando meu conhecimento da mesma forma que você! :heart: </p>
 
 ## Desenvolvedora :crown:
 
